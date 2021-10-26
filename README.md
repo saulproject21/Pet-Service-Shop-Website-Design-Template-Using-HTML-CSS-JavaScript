@@ -17,12 +17,12 @@ the main feature of this website are:
 * SOURCE CODES *
 
 DOWNLOAD THE SOURCE CODE FROM GOOGLE DRIVE ( INCLUDES IMAGES ):
-https://drive.google.com/file/d/1BbmH...
+https://cararegistrasi.com/XRE6RVh07Oo
 
 *How To Download*
 
-Step 1 :- click the google drive link ☝☝☝
-Step 2 :- click on download link in the google drive. 
+Step 1 :- click the link ☝☝☝
+Step 2 :- click on download link in the github. 
 Step 3 :- extract the zip file into your desired folder.
 Step 4 :- open the folder and then rename each coding files.
 Step 5 :- convert each coding files example ( index.txt to index.html ) - ( style.txt to style.css ) - ( script.txt to script.js ).
